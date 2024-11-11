@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Igor Hideki Trindade, a software engineer with a passion for frontend development. I currently work as a Fullstack Software Engineer at Lambda3. With over 8 years of experience, I've worked on a variety of projects and gained expertise in different technologies.
+I'm Igor Hideki Trindade, a software engineer with a passion for frontend development. I currently work as a Fullstack Software Engineer at Lambda3. With over 8 years of experience, I've worked on a variety of projects and gained expertise in different technologies.
 
 Outside of work, I have a strong interest in video games, bikes, mechanical keyboards, and coffee.
 
